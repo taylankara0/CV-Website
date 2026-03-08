@@ -1,4 +1,4 @@
-https://taylankara0.github.io/CV-Website/
+https://taylankara0.github.io/Professional-Portfolio-Website/
 
 Taylan Kara - Software Engineering Portfolio
 
